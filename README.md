@@ -1,5 +1,8 @@
 ### Hi there 👋
 <b>my name kaushtubh agrawal </b>
+<hr/>
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **kaustubh76/kaustubh76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
