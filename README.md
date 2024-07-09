@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh76&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh76" /> </p>
 
 
-
-- 💬 Ask me about **react,vue and js.**
-
 - 📫 How to reach me **kaushtubhagrawal45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
